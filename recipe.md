@@ -1,5 +1,7 @@
 # Chocolate Caramel Celebration Cake
 
+> When life gives you caramel, make a cake with it - unknown
+
 This recipe makes a three-layer celebration cake with a caramel filling between each layer and vanilla frosting on the outside.
 
 ## Cake Ingredients
